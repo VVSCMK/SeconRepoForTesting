@@ -2,3 +2,7 @@ git clone for the first time to clone a repo to local
 git status -- to view the status
 git pull to pull the content
 Homebrew - https://brew.sh/ -- to have mac package installed 
+git add <file>
+git commit -m ""
+git push origin main
+Token : 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
